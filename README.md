@@ -713,3 +713,5 @@ ________________________________________________________________
  DISCLAIMER: the present pseudopotential library is supplied
              (freely) "as is". All the pseudopotentials have
              been extensively tested and most of them already
+             used in published works... however, as usual,
+             NO GUARANTEE ON ANYTHING.
